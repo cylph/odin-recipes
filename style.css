@@ -1,0 +1,31 @@
+body {
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-family: Helvetica ,Verdana, Arial, sans-serif,;
+    font-size: 40px;
+    color: aquamarine;
+    background-color: blueviolet;
+
+}
+
+.pasta {
+    font-family: Cambria, Cochin, Georgia, Times;
+    font-size: 30px;
+    color:chocolate;
+    background-color: azure;
+}
+
+#dough {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 32px;
+    color: darkolivegreen;
+    background-color: lemonchiffon;
+
+}
+
+.pasta.meat {
+    color: forestgreen;
+}
